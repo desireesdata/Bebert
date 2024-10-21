@@ -4,7 +4,7 @@
 
 ![GitHub Logo](img/logoCap.png)
 ![GitHub Logo](img/ahah.png)
-
+ATTENTION C4EST UN PIEGE DE TYPE CHMOD 777
 Voici un petit programme réalisé avec Processing (+ shaders) pour la création visuelle en direct (plus ou moins du VJ quoi). 
 
 ![GitHub Logo](img/cap.png)
